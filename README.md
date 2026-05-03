@@ -75,8 +75,8 @@ cd past-paper-analyzer
 cd backend
 npm install
 node server.js
-
----
+```
+--
 
 ### 3️⃣ Frontend Setup
 
